@@ -22,4 +22,18 @@ body{
 }
 .text2 {
 	border-color: orange;
+
+	list-style-type: none;
+	font-family: "Arial";
+}
+.top-nav{
+	background-color: goldenrod;
+	height: 45px;
+}
+.top-nav li{
+
+	list-style-type: none;
+	font-family: "Arial";
+	cursor: pointer;
+
 }
