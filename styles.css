@@ -12,14 +12,42 @@ body{
 }*/
 .title {
 	border-color: green;
+	text-align: center;
+	font-size: 55px;
+
 }
 .image {
 	border-color: blue;
 }
 .text1 {
 	border-color: red;
+	float: left;
 
 }
 .text2 {
 	border-color: orange;
+	float: right;
+	width: 45%;
+	list-style-type: none;
+	font-family: "Arial";
+}
+.top-nav{
+	background-color: goldenrod;
+	height: 45px;
+}
+.top-nav li{
+
+	list-style-type: none;
+	font-family: "Arial";
+	cursor: pointer;
+
+}
+.img-box{
+	width: 50%;
+	height: 50px;
+	border: 2px dashed lime;
+}
+
+.footer{
+	clear: both;
 }
