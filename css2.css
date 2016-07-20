@@ -2,3 +2,37 @@ body{
 
 	background-color: green;
 }
+div{
+	border: 5px;
+}
+
+.div-inline{
+
+	display: inline;
+}
+
+.div-block{
+
+display: block;
+}
+.div-inline{
+
+	display: inline-block;
+}
+.div-inline-block{
+	display: inline-block;
+}
+
+article section:nth-child(2n){
+		border: 2px dashed red;
+}
+article section:nth-child(2n+1){
+		border: 2px dashed purple;
+}
+
+article section:first-of-type{
+
+	background-color: red;
+}
+
+

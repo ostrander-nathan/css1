@@ -1,0 +1,19 @@
+
+h3 {
+	text-align: right;
+}
+.new-border{
+	border-top: 2px solid black;
+}
+.googlelogo{
+	position: center;
+}
+.searchBar{
+	position: center;
+	top: 200px;
+	margin: 25px;
+	padding: 30px 30px;
+}
+.button{
+	position: center;
+}
